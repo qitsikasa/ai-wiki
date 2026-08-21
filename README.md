@@ -8,10 +8,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06b6d4?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://ai-wiki-qitsikasa.netlify.app)
 
 **Explora, compara y mantente al día con todos los modelos de IA del mercado.**
 
-[Ver Demo en Vivo](#) · [Reportar Bug](#) · [Sugerir Modelo](#)
+[🌐 Ver Demo en Vivo](https://ai-wiki-qitsikasa.netlify.app) · [📂 GitHub](https://github.com/qitsikasa/ai-wiki)
 
 </div>
 
@@ -176,7 +177,7 @@ ai-wiki/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/ai-wiki.git
+git clone https://github.com/qitsikasa/ai-wiki.git
 cd ai-wiki
 
 # 2. Instalar dependencias
